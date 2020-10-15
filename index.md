@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Cool Artist PK Kim webbbsite</title>
+</head>
+
+<body>
+<center>
+<h1>PK KIM</h1>
+<br>
+Wow! Beep beep! Hello and WELCOME to my WEBSITE! I'm PK Kim. I'm a white, trans, disabled weirdo freak who makes music and illustration and other stuff.
+<br>
+<a href="#music">M U S I C</a> <a href="#illustration">I L L U S T R A T I O N</a> <a href="#store">S T O R E</a>
+
+
+<br><a name="music"></a><b><u>M U S I C</u></b>
+<br><b>FROGSMOG</b>
+<br><b>SLAM & WALLACE</b>
+<br><b>SOUNDTRACKS</b>
+<br><b><i>COMING SOON:</i></b> "Bone Castle (The Album)" a collaborative album by PK + associates recorded right before lockdown.
+
+
+<br><a name="illustration"></a><b><u>jI L L U S T R A T I O N</u></b>
+<br><b>MISC WORKS</b>
+<br><b>ORIGINAL COMICS & ZINES</b>
+<br><b>ZINE CONTRIBUTIONS</b>
+<br><b>GIG POSTERS</b>
+<br><b>FREELANCE & COMMISSION</b>
+<br><b>100 SPONGEBOBS</b>
+
+
+<br><a name="store"></a><b><u>S T O R E</u></b>
+<br>Capitalism is bullshit and I hate money but anyway also here's how to buy things:
+<br><b>ILLUSTRATION</b>
+<br><b>MUSIC</b>
+
+
+</body>
+</html>
